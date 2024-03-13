@@ -53,7 +53,6 @@ def getViews():
         video_response = youtube.videos().list(part='snippet,statistics', id=VIDEO_ID).execute()
             # print(video_response)     
         views = video_response['items'][0]['statistics']['viewCount']
-
         return views
 
     except Exception as ex:
