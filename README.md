@@ -53,9 +53,19 @@ python main.py
 
 Contributions are welcome! Feel free to open an issue or submit a pull request to suggest improvements or additional features.
 
-## Support
+## Author
 
-If you encounter any issues or have questions about using the script, please [open an issue](https://github.com/PriyanshRaj30/yt-thumbnail-stats/issues) on GitHub.
+👤 **Priyanshu Raj**
+
+* Github: [@PriyanshRaj30](https://github.com/PriyanshRaj30)
+
+## Support
+- Give a ⭐️ if this project helped you!
+- If you encounter any issues or have questions about using the script, please [open an issue](https://github.com/PriyanshRaj30/yt-thumbnail-stats/issues) on GitHub.
 
 ---
+
+
+
+
 
